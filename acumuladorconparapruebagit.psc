@@ -9,4 +9,6 @@ Proceso ejercicio
 		ahorro <- ahorro + ingreso;
 		Escribir "En el mes ",mes," lleva acumulado ",ahorro," euros.";
 	FinPara
+	
+	//wolas
 FinProceso
