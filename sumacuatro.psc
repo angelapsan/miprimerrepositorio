@@ -18,4 +18,5 @@ Proceso suma
 	Escribir "el resultado de la multiplicacion de ",num1, " x ",num2," es = ",resultado3;
 	Escribir "el resultado de la division de ",num1, " entre ",num2, " es = ",resultado4;
 	
+	//para la clase de GITHUB
 FinProceso
