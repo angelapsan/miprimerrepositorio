@@ -11,4 +11,5 @@ Proceso ejercicio
 	FinPara
 	
 	//wolas
+	//nuevo cambio recibido directamente en el repositorio remoto
 FinProceso
